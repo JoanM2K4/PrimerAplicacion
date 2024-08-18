@@ -100,12 +100,15 @@
             // 
             // btnCalcular
             // 
+            btnCalcular.BackColor = Color.Red;
+            btnCalcular.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCalcular.ForeColor = SystemColors.Control;
             btnCalcular.Location = new Point(594, 409);
             btnCalcular.Name = "btnCalcular";
             btnCalcular.Size = new Size(94, 29);
             btnCalcular.TabIndex = 6;
             btnCalcular.Text = "Calcular";
-            btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.UseVisualStyleBackColor = false;
             btnCalcular.Click += btnCalcular_Click;
             // 
             // textResultado
