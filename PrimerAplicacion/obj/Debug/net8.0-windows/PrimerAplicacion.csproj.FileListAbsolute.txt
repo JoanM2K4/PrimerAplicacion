@@ -1,0 +1,17 @@
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.Form1.resources
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.Properties.Resources.resources
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.csproj.GenerateResource.cache
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.AssemblyInfoInputs.cache
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.AssemblyInfo.cs
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.exe
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.deps.json
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.runtimeconfig.json
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.dll
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.pdb
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.dll
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\refint\PrimerAplicacion.dll
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.pdb
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.genruntimeconfig.cache
+C:\Users\jjsot\Documents\Ejemplos c#\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\ref\PrimerAplicacion.dll
