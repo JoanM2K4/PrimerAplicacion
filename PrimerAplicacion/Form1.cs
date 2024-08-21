@@ -19,6 +19,7 @@ namespace PrimerAplicacion
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            ///algo nuevo 2
             int valor1, valor2, resultado;
             valor1 = Convert.ToInt32(textNum1.Text);
             valor2 = Convert.ToInt32(textNum2.Text);
